@@ -1,0 +1,19 @@
+<suite name="OrangeHRM" parallel="tests" >
+   
+   <test name="LogInTest">
+      <classes>
+         <class name="com.orangehrm_Testng.Loginfunction"/>
+      </classes>
+    </test>
+    
+    
+    <test name="AddEmployeeTest">
+      <classes>
+         <class name="com.orangehrm_Testng.Addemployee_functionality"/>
+      </classes>
+  </test>
+   
+     
+   
+   
+</suite>

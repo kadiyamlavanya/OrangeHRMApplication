@@ -1,0 +1,5 @@
+# OrangeHRM Application LogIN Page username WebElement locator is name
+orangeHRMApplicationLogInPageusernameProperty=txtUsername
+
+# OrangeHRM Application LogIN Page password WebElement locator is name
+orangeHRMApplicationLogInPagepasswordProperty=txtPassword

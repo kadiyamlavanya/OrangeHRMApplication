@@ -1,0 +1,29 @@
+2024-03-01 11:37:10,197 - Log -INFO - The chrome browser lunch successfully
+2024-03-01 11:43:01,176 - Log -INFO - The chrome browser lunch successfully
+2024-03-01 11:43:05,897 - Log -INFO - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2024-03-01 11:43:05,922 - Log -INFO - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2024-03-01 11:43:05,933 - Log -INFO - The url address is PASS
+2024-03-01 11:43:05,947 - Log -INFO - The expected HomePage title isAdmin
+2024-03-01 11:43:06,024 - Log -INFO - The Actual HomePage title isAdmin
+2024-03-01 11:43:06,298 - Log -INFO - The Home page text is matched  PASS
+2024-03-01 11:43:06,311 - Log -INFO - The expected home page login page title isOrangeHRM
+2024-03-01 11:43:06,331 - Log -INFO - The actual home page login page isOrangeHRM
+2024-03-01 11:43:06,336 - Log -INFO - The home page Orange HRM title is matched
+2024-03-01 11:43:08,352 - Log -INFO - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2024-03-01 11:43:08,366 - Log -INFO - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+2024-03-01 11:43:08,372 - Log -INFO - The url address is FAIL
+2024-03-01 11:43:08,377 - Log -INFO - The expected home page login page title isOrangeHRM
+2024-03-01 11:43:08,395 - Log -INFO - The actual home page login page isOrangeHRM
+2024-03-01 11:43:08,405 - Log -INFO - The home page Orange HRM title is matched
+2024-03-01 11:43:10,551 - Log -INFO - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2024-03-01 11:43:10,574 - Log -INFO - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+2024-03-01 11:43:10,580 - Log -INFO - The url address is FAIL
+2024-03-01 11:43:10,585 - Log -INFO - The expected home page login page title isOrangeHRM
+2024-03-01 11:43:10,621 - Log -INFO - The actual home page login page isOrangeHRM
+2024-03-01 11:43:10,625 - Log -INFO - The home page Orange HRM title is matched
+2024-03-01 11:43:12,071 - Log -INFO - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2024-03-01 11:43:12,086 - Log -INFO - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+2024-03-01 11:43:12,091 - Log -INFO - The url address is FAIL
+2024-03-01 11:43:12,102 - Log -INFO - The expected home page login page title isOrangeHRM
+2024-03-01 11:43:12,149 - Log -INFO - The actual home page login page isOrangeHRM
+2024-03-01 11:43:12,154 - Log -INFO - The home page Orange HRM title is matched

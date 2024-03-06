@@ -1,0 +1,327 @@
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The url address is PASS
+[main] INFO Log - The expected HomePage title isAdmin
+[main] INFO Log - The Actual HomePage title isAdmin
+[main] INFO Log - The Home page text is matched  PASS
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The url address is PASS
+[main] INFO Log - The expected HomePage title isAdmin
+[main] INFO Log - The Actual HomePage title isAdmin
+[main] INFO Log - The Home page text is matched  PASS
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The url address is PASS
+[main] INFO Log - The expected HomePage title isAdmin
+[main] INFO Log - The Actual HomePage title isAdmin
+[main] INFO Log - The Home page text is matched  PASS
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The url address is PASS
+[main] INFO Log - The expected HomePage title isAdmin
+[main] INFO Log - The Actual HomePage title isAdmin
+[main] INFO Log - The Home page text is matched  PASS
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-2] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-1] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-1] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-2] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The url address is PASS
+[TestNG-tests-1] INFO Log - The expected HomePage title isAdmin
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The url address is PASS
+[TestNG-tests-1] INFO Log - The expected HomePage title isAdmin
+[TestNG-tests-1] INFO Log - The Actual HomePage title isAdmin
+[TestNG-tests-1] INFO Log - The Actual HomePage title isAdmin
+[TestNG-tests-1] INFO Log - The Home page text is matched  PASS
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The Home page text is matched  PASS
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-2] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-1] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The url address is PASS
+[TestNG-tests-1] INFO Log - The expected HomePage title isAdmin
+[TestNG-tests-1] INFO Log - The Actual HomePage title isAdmin
+[TestNG-tests-1] INFO Log - The Home page text is matched  PASS
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The url address is PASS
+[main] INFO Log - The expected HomePage title isAdmin
+[main] INFO Log - The Actual HomePage title isAdmin
+[main] INFO Log - The Home page text is matched  PASS
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-1] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-2] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-1] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-3] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-2] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-3] INFO Log - The chrome browser lunch successfully
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The url address is PASS
+[TestNG-tests-1] INFO Log - The expected HomePage title isAdmin
+[TestNG-tests-1] INFO Log - The Actual HomePage title isAdmin
+[TestNG-tests-1] INFO Log - The Home page text is matched  PASS
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The url address is PASS
+[TestNG-tests-1] INFO Log - The expected HomePage title isAdmin
+[TestNG-tests-1] INFO Log - The Actual HomePage title isAdmin
+[TestNG-tests-1] INFO Log - The Home page text is matched  PASS
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[TestNG-tests-1] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[TestNG-tests-1] INFO Log - The url address is FAIL
+[TestNG-tests-1] INFO Log - The expected home page login page title isOrangeHRM
+[TestNG-tests-1] INFO Log - The actual home page login page isOrangeHRM
+[TestNG-tests-1] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - Number of radiobuttons
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - Number of radiobuttons0
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - Number of radiobuttons99
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - Number of radiobuttons170
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The size of radiobuttons0
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The chrome browser lunch successfully
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The url address is PASS
+[main] INFO Log - The expected HomePage title isAdmin
+[main] INFO Log - The Actual HomePage title isAdmin
+[main] INFO Log - The Home page text is matched  PASS
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - The expected url is ishttp://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO Log - The url address is FAIL
+[main] INFO Log - The expected home page login page title isOrangeHRM
+[main] INFO Log - The actual home page login page isOrangeHRM
+[main] INFO Log - The home page Orange HRM title is matched
+[main] INFO Log - The chrome browser lunch successfully

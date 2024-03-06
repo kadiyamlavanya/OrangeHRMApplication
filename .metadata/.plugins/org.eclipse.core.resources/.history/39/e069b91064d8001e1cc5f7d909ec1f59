@@ -1,0 +1,59 @@
+package com.radiobuttons;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.testng.annotations.Test;
+
+import com.utility.Log;
+
+public class radiobuttons extends Basetest {
+	@Test(priority=1,description="Radiobuttonclickoperation")
+	public void radiobuttonsclick()
+	{
+		//<input type="radio" name="group1" value="Milk">
+		//<input type="radio" name="group1" value="Butter" checked="">
+		//<input type="radio" name="group1" value="Cheese">
+		
+		
+		//<input type="radio" name="group2" value="Water">
+		//<input type="radio" name="group2" value="Beer">
+		//<input type="radio" name="group2" value="Wine" checked="">
+		
+		
+		///html/body/div[2]/table[9]/tbody/tr/td[4]/table/tbody/tr/td/div/span/form/table[3]/tbody/tr/td/table/tbody
+		
+		By Radiobuttonsproperty =By.xpath("/html/body/div[2]/table[9]/tbody/tr/td[4]/table/tbody/tr/td/div/span/form/table[3]/tbody/tr/td/table/tbody");
+		WebElement Radiobuttons=driver.findElement(Radiobuttonsproperty);
+		
+		By radio=By.tagName("tr");
+		List <WebElement> radiobutton=driver.findElements(radio);
+		int radiobuttonsize=radiobuttons.size();
+		Log.info("Number of radiobuttons"+radiobuttonsize);
+		
+		for(int radiobuttons=0;radiobuttons<radiobuttonsize;radiobuttons++)
+		{
+			radiobutton.get(radiobuttons).click();
+		}
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+	}
+
+	private static int size() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

@@ -1,0 +1,7 @@
+package snippet;
+
+public class Snippet {
+	WebDriver driver;
+	String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard";
+}
+

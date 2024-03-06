@@ -1,0 +1,13 @@
+<suite name="OrangeHRMApplication" >
+   
+   <test name="function">
+      <classes>
+         <class name="com.OrangeHRMApplication_Testng.function"/>
+      </classes>
+    </test>
+   
+   
+    
+   
+   
+</suite>

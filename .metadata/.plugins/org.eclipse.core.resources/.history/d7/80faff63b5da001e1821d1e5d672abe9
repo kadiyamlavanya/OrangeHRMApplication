@@ -1,0 +1,16 @@
+Feature: OrangeHRM Application Testing
+Given User should Open the Browser in the System
+Scenario: OrangeHRM Application LogInPage Test
+When The User enters OrangeHRM Application URL Address in the browser
+Then The User should be navigated to OrangeHRM Application LogIn WebPage
+Then The User should closed the Browser with the 
+
+Scenario: OrangeHRM Application LogInPage LogInTest
+Given User should Open the Browser in the System
+When The User enters OrangeHRM Application URL Address in the browser
+Then The User should be navigated to OrangeHRM Application LogIn WebPage
+Then User should enter UserName and password and click on login button
+Then User should be navigated to OrangeHRM Application HomePage
+Then User should click on WelComeAdmin and click on LogOut
+Then The User should be navigated to OrangeHRM Application LogIn WebPage
+Then The User should closed the Browser with the Application
